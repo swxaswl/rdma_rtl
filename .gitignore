@@ -1,0 +1,30 @@
+# VCS simulation outputs
+sim/simv
+sim/simv.daidir/
+sim/csrc/
+sim/*.log
+sim/*.fsdb
+sim/*.vpd
+sim/*.vdb
+sim/*.wlf
+sim/ucli.key
+sim/novas_dump.log
+sim/.vcs_lib*
+sim/AN.DB/
+sim/DVEfiles/
+
+# Build artifacts
+*.o
+*.so
+*.a
+*.d
+*.daidir
+*.vcs
+*.swp
+*~
+
+# VCS work libraries
+sim/lib_rtl/
+sim/lib_tb/
+sim/work/
+sim/verdiLog/

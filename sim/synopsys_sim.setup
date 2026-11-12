@@ -1,0 +1,3 @@
+WORK > DEFAULT
+lib_rtl : ./lib_rtl
+lib_tb  : ./lib_tb
