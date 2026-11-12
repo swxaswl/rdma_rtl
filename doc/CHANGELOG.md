@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## [Unreleased]
+
+### Added
+- `README.md`：补充项目概览、架构、模块清单、快速开始、测试覆盖、已知问题与后续规划。
+
+### Changed
+- 完善 GitHub 仓库描述与 topics（仓库元数据，不进入 Git 历史）。
+
 ## [0.2.0] - 2026-11-11
 
 ### Added
